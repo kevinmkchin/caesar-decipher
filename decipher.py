@@ -85,4 +85,6 @@ rightOutcome = outcomes[goodAnswerIndex]
 decryptedMessage = " ".join(rightOutcome)
 
 # Print the decrypted Message
+#print(len(outcomes))
+#print(frequencies)
 print(decryptedMessage)
